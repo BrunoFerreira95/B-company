@@ -12,5 +12,4 @@ O primeiro membro do grupo deve ser o cara do Comercial, ele busca potências em
 
 No formulário inicial deve conter o Setor, Área, Tamanho da empresa, Receita anual.
 
-# Tarefas.
-- Definir valor de projeto, após a analise do formulário.
+Busquei por alguma empresa na area de cooperativa, atuando no setor de Comércio Varejista De Outros Produtos Não Especificados Anteriormente, sendo dois Sócios, com Capital Social de 20 mil.
