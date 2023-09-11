@@ -1,14 +1,27 @@
 ## Company position, where it’s found
 
 ### Setor de Atuação:
+Um resumo sera gerado com uma pesquisa do bing, sobre quanto de dinheiro tem cada setor no ano de 2023
  - Agricultura e Agroindústria
+Começou o ano positivo com balanço de US$ 8,69 bilhões.
+
  - Comércio Varejista
+Espera-se um aumento de crescimento de 55,3% até o ano de 2025 (impossivel quantificar volume financeiro "primeira pesquisa")
+
  - Indústria
+Em 2023 as exportações pelo setor de indústria chega a US$ 206,868 bilhões.
+
  - Tecnologia da Informação (TI)
+Estima-se um valor de US$ 80 bilhões, para este setor.
+
  - Serviços Financeiros
+
  - Saúde e Bem-Estar
+
  - Educação
+
  - Construção Civil
+ 
  - Turismo e Hospitalidade
 
  ### Tamanho da Empresa:
