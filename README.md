@@ -11,3 +11,5 @@ Help with new technology, build innovations.
 
 The road, it’s built a well document flow how to make a plot system.
 The learning flow, it’s not known of a waterfall. Trying to be disruptive own applying your grow has developer.
+
+Goal: Create a stand system for each setor of Brazil
